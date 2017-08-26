@@ -87,7 +87,8 @@ wp-content/plugins/
 ### My PDF files to be added via FTP ###
 pdfs/
 pdfs/CapstoneProposalDigitalMedia-LucilleKenney.pdf
-pdfs/maker-events-mockup-w-notes.pdf
+pdfs/v1-maker-events-mockup-w-notes.pdf
+pdfs/v2-maker-events-mockup-w-notes.pdf
 pdfs/RecordingConsentForm.pdf
 pdfs/TestScript.pdf
 pdfs/TaskDetails.pdf
